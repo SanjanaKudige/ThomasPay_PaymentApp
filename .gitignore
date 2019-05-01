@@ -1,0 +1,6 @@
+.idea
+.elasticbeanstalk
+_DS_Store
+_gitignore
+__pycache__
+virt
